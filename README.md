@@ -6,8 +6,7 @@
 - :grey_question: Ask me about **Vue, Javascript, AWS**
 - Football :soccer: (<i>Bundesliga</i>) and F1 :racing_car: fanatic
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Contact me:</h3>
 <a href="https://linkedin.com/in/anuragrnaik" target="blank">
 <img align="center" src="https://img.shields.io/badge/-anuragrnaik-black?style=flat&logo=linkedin" alt="anuragrnaik" />
 </a>
